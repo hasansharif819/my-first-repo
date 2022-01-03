@@ -24,3 +24,24 @@ h2{
     margin: 20px;
     padding: 10px;
 }
+.bagina{
+    background-color: cornflowerblue;
+    color: crimson;
+    border: 30px;
+    border-radius: 15px;
+    margin: 20px 30px;
+    padding: 20px 30px;
+}
+.x{
+    text-align:center;
+    color: cyan;
+}
+#gunti{
+    background-color: cyan;
+    color: darkorange;
+    text-align: center;
+    border-radius: 30px;
+    border: 20px 30px 40px 50px;
+    margin: 20px;
+    padding: 20px;
+}
