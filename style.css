@@ -1,0 +1,26 @@
+h1{
+    background-color: blueviolet;
+    color: greenyellow;
+    border: 20px solid hotpink;
+    border-radius: 30px;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    text-align: center;
+}
+h2{
+    background-color: indianred;
+    color: lawngreen;
+    border-radius: 20px;
+    border: 40px 30px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#mama{
+    background-color: black;
+    color: blanchedalmond;
+    border: 20px 10px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
